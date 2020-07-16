@@ -18,4 +18,5 @@ Yıllık Burç Yorumu: <a href="https://burc-yorumlari.herokuapp.com/get/aslan/y
 Örnek Etikete göre Api get değerleri:<br>
 Aşk Etiketi : <a href="https://burc-yorumlari.herokuapp.com/gets/aslan/ask">https://burc-yorumlari.herokuapp.com/gets/aslan/ask</a><br>
 Kariyer Etiketi : <a href="https://burc-yorumlari.herokuapp.com/gets/aslan/kariyer">https://burc-yorumlari.herokuapp.com/gets/aslan/kariyer</a></p>
+<p>Etiketler : AŞK,KARİYER,OLUMLU YONLER,SAĞLIK,STİL,ÜNLÜLER,DİYET,ZIT BURÇLARI,EĞLENCE HAYATİ, MAKYAJ, SAÇ STİLİ, ŞİFALI BİTKİLER, FİLM ÖNERİLERİ, ÇOCUKLUĞU, KADINI, ERKEĞİ</p>
 <p>Geliştirmeye devam edeceğim.</p>
