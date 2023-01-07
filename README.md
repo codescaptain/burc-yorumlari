@@ -1,7 +1,7 @@
 <h1 id="burc-yorumlari">burc-yorumlari</h1>
 <p>Burc yorumları ve bu burcların 17 farklı etiket ile özellikleri. Aşk,kariyer vb…</p>
 <p>Herkese Merhaba👋<br>
-Evet hızımı alamayarak 3. bir api daha geliştirdim. Burç yorumları için oluşturulmuş bir sürü api olduğunu sizlerde biliyorsunuz. Ama ben biraz daha eğlenceli bir api olsun istedim. (türkçe karakterli get değerleri verebilirsiniz.)<br>
+Burç yorumları için oluşturulmuş bir sürü api olduğunu sizlerde biliyorsunuz. Ama ben biraz daha eğlenceli bir api olsun istedim. (türkçe karakterli get değerleri verebilirsiniz.)<br>
 〰️<br>
 Burç Api Özellikleri: 👇<br>
 1-)Günlük, haftalık, aylık ve yıllık olarak burc yorumları<br>
